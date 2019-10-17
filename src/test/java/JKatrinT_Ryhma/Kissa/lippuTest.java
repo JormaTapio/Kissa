@@ -7,7 +7,8 @@ import org.junit.Test;
 import junit.framework.TestCase;
 
 public class lippuTest extends TestCase {
-
+	
+	
 	@Test
 	public void testTicket() {
 	

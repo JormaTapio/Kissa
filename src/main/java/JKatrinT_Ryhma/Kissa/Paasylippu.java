@@ -22,8 +22,4 @@ public class Paasylippu {
 	public void setHinta(int hinta) {
 		this.hinta = hinta;
 	}
-	
-	
-	
-
 }

@@ -15,6 +15,4 @@ public class Profiili {
 	public void setKerroin(double kerroin) {
 		Kerroin = kerroin;
 	}
-	
-
 }

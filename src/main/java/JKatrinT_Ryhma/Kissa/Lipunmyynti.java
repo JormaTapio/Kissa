@@ -20,9 +20,7 @@ public class Lipunmyynti {
  
 	public double laskeHinta() {
 		this.hinta  = paasylippu.getHinta();
-		hinta = hinta * profiili.getKerroin();
+		hinta = hinta-(hinta * profiili.getKerroin());
 		return hinta;
 	}
-	
-	
 }
